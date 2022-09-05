@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/RandomGamingDev/Wireframe/main/Wireframelogo.png | The Wireframe game engine | Wireframe.html
+https://raw.githubusercontent.com/RandomGamingDev/Wireframe/main/Wireframelogo.png | The Wireframe game engine | https://raw.githubusercontent.com/RandomGamingDev/RandomGamingDev.github.io.data/main/projects/Wireframe.html
